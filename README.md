@@ -25,27 +25,6 @@ When I build systems, I work with:
 
 ---
 
-## ⚙️ Areas of Interest
-
-- Embedded Systems & Real-Time Firmware Development
-
-- Hardware–Software Co-Design & System Integration
-
-- PCB Design (Analog, Digital & Mixed-Signal Systems)
-
-- RF Circuit Design, Signal Conditioning & Front-End Design
-
-- FPGA Design & Digital Logic Development (Verilog / VHDL)
-
-- Control Systems & Dynamic System Modeling
-
-- High-Speed Digital Design & Signal Integrity Analysis
-
-- Sensor Integration & Embedded Data Acquisition Systems
-
-- Power Systems, Regulation & Hardware Debugging
----
-
 ## 📊 GitHub Analytics
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Maksim59&show_icons=true&theme=tokyonight)
