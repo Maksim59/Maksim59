@@ -4,6 +4,25 @@ I'm an Electrical Engineering student at York University with a strong focus on 
 
 I specialize in bridging the gap between **low level hardware behavior and deterministic software control**, with a strong interest in RF systems, real time data acquisition, and custom embedded architectures.
 
+## 🛠 My Tech Stack
+
+When I build systems, I work with:
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-1F4E79?style=for-the-badge)
+![VHDL](https://img.shields.io/badge/VHDL-5C2D91?style=for-the-badge)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-0091BD?style=for-the-badge)
+![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
+![Altium](https://img.shields.io/badge/Altium-FF0000?style=for-the-badge)
+![LTspice](https://img.shields.io/badge/LTspice-000000?style=for-the-badge)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 ---
 
 ## ⚙️ Areas of Interest
@@ -25,27 +44,6 @@ I specialize in bridging the gap between **low level hardware behavior and deter
 - Sensor Integration & Embedded Data Acquisition Systems
 
 - Power Systems, Regulation & Hardware Debugging
----
-
-## 🛠 My Tech Stack
-
-When I build systems, I work with:
-
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-1F4E79?style=for-the-badge)
-![VHDL](https://img.shields.io/badge/VHDL-5C2D91?style=for-the-badge)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-0091BD?style=for-the-badge)
-![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
-![Altium](https://img.shields.io/badge/Altium-FF0000?style=for-the-badge)
-![LTspice](https://img.shields.io/badge/LTspice-000000?style=for-the-badge)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
 ---
 
 ## 📊 GitHub Analytics
